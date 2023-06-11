@@ -1,2 +1,1 @@
-session_start();
-echo "Hello, world!";
+Hello, world!
